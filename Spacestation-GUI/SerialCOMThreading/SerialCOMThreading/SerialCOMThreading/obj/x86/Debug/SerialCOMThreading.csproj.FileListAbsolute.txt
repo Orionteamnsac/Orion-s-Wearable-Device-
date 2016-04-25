@@ -1,0 +1,9 @@
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\CS\NetduinoPlus\SerialCOMThreading\SerialCOMThreading\bin\Debug\SerialCOMThreading.exe
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\CS\NetduinoPlus\SerialCOMThreading\SerialCOMThreading\bin\Debug\SerialCOMThreading.pdb
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\CS\NetduinoPlus\SerialCOMThreading\SerialCOMThreading\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\CS\NetduinoPlus\SerialCOMThreading\SerialCOMThreading\obj\x86\Debug\SerialCOMThreading.Form1.resources
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\CS\NetduinoPlus\SerialCOMThreading\SerialCOMThreading\obj\x86\Debug\SerialCOMThreading.Properties.Resources.resources
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\CS\NetduinoPlus\SerialCOMThreading\SerialCOMThreading\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\CS\NetduinoPlus\SerialCOMThreading\SerialCOMThreading\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\CS\NetduinoPlus\SerialCOMThreading\SerialCOMThreading\obj\x86\Debug\SerialCOMThreading.exe
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\CS\NetduinoPlus\SerialCOMThreading\SerialCOMThreading\obj\x86\Debug\SerialCOMThreading.pdb

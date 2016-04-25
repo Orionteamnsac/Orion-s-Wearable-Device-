@@ -1,0 +1,148 @@
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\bin\Debug\serialcom.exe.config
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\bin\Debug\serialcom.exe
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\bin\Debug\serialcom.pdb
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.Form1.resources
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.exe
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.pdb
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\bin\Debug\serialcom.exe.config
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.exe
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.pdb
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\bin\Debug\serialcom.exe
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\bin\Debug\serialcom.pdb
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.Form1.resources
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\New folder\serialcom\bin\Debug\serialcom.exe.config
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\New folder\serialcom\obj\Debug\serialcom.exe
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\New folder\serialcom\obj\Debug\serialcom.pdb
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\New folder\serialcom\bin\Debug\serialcom.exe
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\New folder\serialcom\bin\Debug\serialcom.pdb
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\New folder\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\New folder\serialcom\obj\Debug\serialcom.Form1.resources
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\New folder\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\New folder\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\Ahmed Ramadan\Desktop\serialcom\bin\Debug\serialcom.exe.config
+C:\Users\Ahmed Ramadan\Desktop\serialcom\obj\Debug\serialcom.exe
+C:\Users\Ahmed Ramadan\Desktop\serialcom\obj\Debug\serialcom.pdb
+C:\Users\Ahmed Ramadan\Desktop\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Ramadan\Desktop\serialcom\obj\Debug\serialcom.Form1.resources
+C:\Users\Ahmed Ramadan\Desktop\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+C:\Users\Ahmed Ramadan\Desktop\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\Ahmed Ramadan\Desktop\serialcom\bin\Debug\serialcom.exe
+C:\Users\Ahmed Ramadan\Desktop\serialcom\bin\Debug\serialcom.pdb
+C:\Users\Ahmed Ramadan\Desktop\Can-Sat\serialcom\bin\Debug\serialcom.exe.config
+C:\Users\Ahmed Ramadan\Desktop\Can-Sat\serialcom\obj\Debug\serialcom.exe
+C:\Users\Ahmed Ramadan\Desktop\Can-Sat\serialcom\obj\Debug\serialcom.pdb
+C:\Users\Ahmed Ramadan\Desktop\Can-Sat\serialcom\bin\Debug\serialcom.exe
+C:\Users\Ahmed Ramadan\Desktop\Can-Sat\serialcom\bin\Debug\serialcom.pdb
+C:\Users\Ahmed Ramadan\Desktop\Can-Sat\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Ramadan\Desktop\Can-Sat\serialcom\obj\Debug\serialcom.Form1.resources
+C:\Users\Ahmed Ramadan\Desktop\Can-Sat\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+C:\Users\Ahmed Ramadan\Desktop\Can-Sat\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\Final GUI\serialcom\bin\Debug\serialcom.exe.config
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\Final GUI\serialcom\obj\Debug\serialcom.exe
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\Final GUI\serialcom\obj\Debug\serialcom.pdb
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\Final GUI\serialcom\bin\Debug\serialcom.exe
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\Final GUI\serialcom\bin\Debug\serialcom.pdb
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\Final GUI\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\Final GUI\serialcom\obj\Debug\serialcom.Form1.resources
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\Final GUI\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\Final GUI\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\bin\Debug\serialcom.exe.config
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\obj\Debug\serialcom.exe
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\obj\Debug\serialcom.pdb
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\bin\Debug\serialcom.exe
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\bin\Debug\serialcom.pdb
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\obj\Debug\serialcom.Form1.resources
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\serialcom\bin\Debug\serialcom.exe.config
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\serialcom\obj\Debug\serialcom.exe
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\serialcom\obj\Debug\serialcom.pdb
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\serialcom\bin\Debug\serialcom.exe
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\serialcom\bin\Debug\serialcom.pdb
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\serialcom\obj\Debug\serialcom.Form1.resources
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+C:\Users\Ahmed Ramadan\Desktop\serialcom\serialcom\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+E:\serialcom\serialcom\serialcom\bin\Debug\serialcom.exe.config
+E:\serialcom\serialcom\serialcom\obj\Debug\serialcom.exe
+E:\serialcom\serialcom\serialcom\obj\Debug\serialcom.pdb
+E:\serialcom\serialcom\serialcom\bin\Debug\serialcom.exe
+E:\serialcom\serialcom\serialcom\bin\Debug\serialcom.pdb
+E:\serialcom\serialcom\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+E:\serialcom\serialcom\serialcom\obj\Debug\serialcom.Form1.resources
+E:\serialcom\serialcom\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+E:\serialcom\serialcom\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\GUI - CAN-SAT Final\serialcom\bin\Debug\serialcom.exe.config
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\GUI - CAN-SAT Final\serialcom\bin\Debug\serialcom.exe
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\GUI - CAN-SAT Final\serialcom\bin\Debug\serialcom.pdb
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.Form1.resources
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.exe
+C:\Users\Moamen Ibrahem\Desktop\CAN-SAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.pdb
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\bin\Debug\serialcom.exe.config
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.exe
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.pdb
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\bin\Debug\serialcom.exe
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\bin\Debug\serialcom.pdb
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.Form1.resources
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\bin\Debug\MahApps.Metro.dll
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\bin\Debug\System.Windows.Interactivity.dll
+E:\Projects\CANSAT\GUI - CAN-SAT Final\serialcom\bin\Debug\MahApps.Metro.xml
+D:\Projects\GUI - CAN-SAT Final\serialcom\bin\Debug\serialcom.exe.config
+D:\Projects\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.exe
+D:\Projects\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.pdb
+D:\Projects\GUI - CAN-SAT Final\serialcom\bin\Debug\serialcom.exe
+D:\Projects\GUI - CAN-SAT Final\serialcom\bin\Debug\serialcom.pdb
+D:\Projects\GUI - CAN-SAT Final\serialcom\bin\Debug\MahApps.Metro.dll
+D:\Projects\GUI - CAN-SAT Final\serialcom\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\GUI - CAN-SAT Final\serialcom\bin\Debug\MahApps.Metro.xml
+D:\Projects\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+D:\Projects\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.Form1.resources
+D:\Projects\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+D:\Projects\GUI - CAN-SAT Final\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\amrah\Desktop\serialcom\bin\Debug\serialcom.exe.config
+C:\Users\amrah\Desktop\serialcom\obj\Debug\serialcom.exe
+C:\Users\amrah\Desktop\serialcom\obj\Debug\serialcom.pdb
+C:\Users\amrah\Desktop\serialcom\bin\Debug\serialcom.exe
+C:\Users\amrah\Desktop\serialcom\bin\Debug\serialcom.pdb
+C:\Users\amrah\Desktop\serialcom\bin\Debug\MahApps.Metro.dll
+C:\Users\amrah\Desktop\serialcom\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\amrah\Desktop\serialcom\bin\Debug\MahApps.Metro.xml
+C:\Users\amrah\Desktop\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+C:\Users\amrah\Desktop\serialcom\obj\Debug\serialcom.Form1.resources
+C:\Users\amrah\Desktop\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+C:\Users\amrah\Desktop\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\amrah\Desktop\serialcom\bin\Debug\serialcom.exe.manifest
+C:\Users\amrah\Desktop\serialcom\bin\Debug\serialcom.application
+C:\Users\amrah\Desktop\serialcom\obj\Debug\serialcom.exe.manifest
+C:\Users\amrah\Desktop\serialcom\obj\Debug\serialcom.application
+C:\Users\amrah\Desktop\serialcom\bin\Debug\MahApps.Metro.pdb
+E:\Projects\NASA Space Apps\serialcom\bin\Debug\serialcom.exe.config
+E:\Projects\NASA Space Apps\serialcom\obj\Debug\serialcom.exe
+E:\Projects\NASA Space Apps\serialcom\obj\Debug\serialcom.pdb
+E:\Projects\NASA Space Apps\serialcom\bin\Debug\serialcom.exe.manifest
+E:\Projects\NASA Space Apps\serialcom\bin\Debug\serialcom.application
+E:\Projects\NASA Space Apps\serialcom\bin\Debug\serialcom.exe
+E:\Projects\NASA Space Apps\serialcom\bin\Debug\serialcom.pdb
+E:\Projects\NASA Space Apps\serialcom\bin\Debug\MahApps.Metro.dll
+E:\Projects\NASA Space Apps\serialcom\bin\Debug\System.Windows.Interactivity.dll
+E:\Projects\NASA Space Apps\serialcom\bin\Debug\MahApps.Metro.pdb
+E:\Projects\NASA Space Apps\serialcom\bin\Debug\MahApps.Metro.xml
+E:\Projects\NASA Space Apps\serialcom\obj\Debug\serialcom.Form1.resources
+E:\Projects\NASA Space Apps\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+E:\Projects\NASA Space Apps\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+E:\Projects\NASA Space Apps\serialcom\obj\Debug\serialcom.exe.manifest
+E:\Projects\NASA Space Apps\serialcom\obj\Debug\serialcom.application
+E:\Projects\NASA Space Apps\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
